@@ -1,7 +1,0 @@
-java programming/29000
-SQL/22000
-Spring Framework/33000
-R/33000
-Hadoop/43000
-R/33000
-R/33000
