@@ -1,10 +1,8 @@
-# Lambda를 이용한 java programming 4 (08/19)
+# Lambda의 interface 객체 
 
 > 전체 소스코드 Ex04_LambdaUsingConsumer 참고
 
 <br>
-
-## Lambda의 interface 객체 
 
 - 람다식은 추상 메소드가 1개인 interface의 객체를 생성하는 표현식
 
@@ -34,7 +32,7 @@
 
   
 
-## Consumer 
+# Functional Interface : Consumer
 
 - 함수적 인터페이스
 

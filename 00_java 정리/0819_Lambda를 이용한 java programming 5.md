@@ -1,10 +1,8 @@
-# Lambda를 이용한 java programming 5 (08/19)
+# Functional Interface : Supplier 
 
 > 전체 소스코드 Ex05_LambdaUsingSupplier 참고
 
 <br>
-
-# Supplier
 
 - Supplier 인터페이스는 매개변수가 없고 return type이 있음
 
