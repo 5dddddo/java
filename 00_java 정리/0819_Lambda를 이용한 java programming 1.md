@@ -4,7 +4,7 @@
 
 ## Java Lambda
 
-![1566173602873](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1566173602873.png)
+![image](https://user-images.githubusercontent.com/50972986/63342129-ae121c80-c385-11e9-9acf-b9d098176c94.png)
 
 - 함수적 프로그래밍 패턴을 위해 Java는 8 버전부터 Lambda를 지원
 - 람다는 익명함수를 만들기 위한 expression (식)
