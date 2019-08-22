@@ -35,22 +35,23 @@ public class javaFXUITemplate extends Application {
 		btn.setOnAction(t -> {
 			// 버튼에서 Action이 발생(클릭)했을 때 호출!
 			textarea.appendText("소리없는 아우성");
-			// FlowPane : 오른쪽으로 붙이는 layout
-			// 안스의 Linear Layout
-			FlowPane flowpane = new FlowPane();
-			flowpane.setPrefSize(700, 50);
-			// FlowPane에 버튼 올리기
-			flowpane.getChildren().add(btn);
-			root.setBottom(flowpane);
-
-			// 실제 Window에 띄우기 위해 Scene 객체 필요
-			Scene scene = new Scene(root);
-			// Stage primaryStage : 실제 Window 객체
-			primaryStage.setScene(scene);
-			primaryStage.setTitle("Thread 예제입니다");
-			// Window에 띄우기
-			primaryStage.show();
+		
 		});
+		// FlowPane : 오른쪽으로 붙이는 layout
+		// 안스의 Linear Layout
+		FlowPane flowpane = new FlowPane();
+		flowpane.setPrefSize(700, 50);
+		// FlowPane에 버튼 올리기
+		flowpane.getChildren().add(btn);
+		root.setBottom(flowpane);
+
+		// 실제 Window에 띄우기 위해 Scene 객체 필요
+		Scene scene = new Scene(root);
+		// Stage primaryStage : 실제 Window 객체
+		primaryStage.setScene(scene);
+		primaryStage.setTitle("Thread 예제입니다");
+		// Window에 띄우기
+		primaryStage.show();
 
 	}
 
