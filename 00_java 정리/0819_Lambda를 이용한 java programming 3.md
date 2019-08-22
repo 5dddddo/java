@@ -1,6 +1,6 @@
 # Lambda를 이용한 java programming 3 (08/19)
 
-> 전체 소스코드 Ex03_LambdaUsingVariable 참고
+> 전체 소스코드 [Ex03_LambdaUsingVariable](https://github.com/5dddddo/java/blob/master/0819_Java_SE_programming/Ex03_LambdaUsingVariable.java) 참고
 
 <br>
 

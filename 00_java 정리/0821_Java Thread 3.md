@@ -1,6 +1,6 @@
 # Java Thread 3 (08/21)
 
-> 전체 소스코드 Ex01_ThreadBasic 참고
+> 전체 소스코드 [Ex01_ThreadBasic](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming/Ex01_ThreadBasic.java) 참고
 
 <br>
 

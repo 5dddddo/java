@@ -1,6 +1,6 @@
 # Lambda의 interface 객체 
 
-> 전체 소스코드 Ex04_LambdaUsingConsumer 참고
+> 전체 소스코드 [Ex04_LambdaUsingConsumer](https://github.com/5dddddo/java/blob/master/0819_Java_SE_programming/Ex04_LambdaUsingConsumer.java) 참고
 
 <br>
 

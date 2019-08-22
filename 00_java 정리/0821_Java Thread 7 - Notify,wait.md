@@ -1,5 +1,9 @@
 # Java Thread 7 - Notify/wait
 
+> 전체 소스코드 [Ex05_ThreadWaitNotify](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming/Ex05_ThreadWaitNotify.java) 참고
+
+<br>
+
 ## Java Thread States
 
 ![image](https://user-images.githubusercontent.com/50972986/63483753-6059f900-c4d8-11e9-92f2-3453ec5e16e5.png)
@@ -7,8 +11,6 @@
 <Br>
 
 #### Thread가 번갈아 가면서 호출하도록 하는 예제
-
-> 전체 소스코드 Ex05_ThreadWaitNotify 참고
 
 <br>
 

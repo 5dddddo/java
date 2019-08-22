@@ -1,6 +1,6 @@
 # Functional Interface : Function
 
-> 전체 소스코드 Ex06_LambdaUsingFunction 참고
+> 전체 소스코드 [Ex06_LambdaUsingFunction](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming/Ex06_LambdaUsingFunction.java) 참고
 
 <BR>
 

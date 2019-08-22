@@ -56,7 +56,7 @@
 
 <br>
 
-## Java Thread States
+Java Thread States
 
 ![1566377459460](https://user-images.githubusercontent.com/50972986/63418638-67ccc400-c43e-11e9-8d2d-687d08a7b2f9.png)
 
@@ -94,4 +94,14 @@
 
    ​					 Garbage colletor에 의해 수거됨
 
-   ​					
+   
+
+----------------------------
+
+## 전체 Java Thread States
+
+> [0821_Java Thread 7 - Notify,wait.md](https://github.com/5dddddo/java/blob/master/00_java%20%EC%A0%95%EB%A6%AC/0821_Java%20Thread%207%20-%20Notify%2Cwait.md) 참고
+
+<br>
+
+![image](https://user-images.githubusercontent.com/50972986/63483753-6059f900-c4d8-11e9-92f2-3453ec5e16e5.png)

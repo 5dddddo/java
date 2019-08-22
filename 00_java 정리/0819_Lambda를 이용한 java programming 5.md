@@ -1,6 +1,6 @@
 # Functional Interface : Supplier 
 
-> 전체 소스코드 Ex05_LambdaUsingSupplier 참고
+> 전체 소스코드 [Ex05_LambdaUsingSupplier](https://github.com/5dddddo/java/blob/master/0819_Java_SE_programming/Ex05_LambdaUsingSupplier.java) 참고
 
 <br>
 

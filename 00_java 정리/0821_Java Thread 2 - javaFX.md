@@ -1,5 +1,7 @@
 # Java Thread 2 (08/21)
 
+> 전체 소스코드 [Ex00_ThreadBasic](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming/Ex00_ThreadBasic.java) 참고
+
 ## JavaFX란?
 
 - JavaFX 응용 프로그램에 포함된
@@ -26,8 +28,6 @@
 <br>
 
 #### 현재 사용되는 Thread의 이름을 출력하는 예제
-
-> 전체 소스코드 Ex00_ThreadBasic 참고
 
 <br>
 

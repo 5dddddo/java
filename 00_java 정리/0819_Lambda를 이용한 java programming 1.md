@@ -1,6 +1,8 @@
 # Lambda를 이용한 java programming 1 (08/19)
 
-> 전체 소스코드 Ex01_LambdaBasic 참고
+> 전체 소스코드 [Ex01_LambdaBasic](https://github.com/5dddddo/java/blob/master/0819_Java_SE_programming/Ex01_LambdaBasic.java) 참고
+
+<br>
 
 ## Java Lambda
 
