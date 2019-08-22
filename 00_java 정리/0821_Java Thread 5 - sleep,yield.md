@@ -1,6 +1,6 @@
 # Java Thread 5 - sleep,yield
 
-> 전체 소스코드 Ex03_ThreadSleep 참고
+> 전체 소스코드 [Ex03_ThreadSleep](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming/Ex03_ThreadSleep.java) 참고
 
 <br>
 
