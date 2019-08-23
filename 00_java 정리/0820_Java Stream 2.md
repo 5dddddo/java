@@ -1,6 +1,6 @@
 # Java Stream 2 (08/20)
 
-> 전체 소스코드 [Ex02_StreamSource](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming/Ex02_StreamSource.java) 참고
+> 전체 소스코드 [Ex02_StreamSource](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming - Stream/Ex02_StreamSource.java) 참고
 
 <br>
 

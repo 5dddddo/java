@@ -1,6 +1,6 @@
 # Java Stream 1 (08/20)
 
-> 전체 소스코드 [Ex01_StreamBasic](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming/Ex01_StreamBasic.java) 참고
+> 전체 소스코드 [Ex01_StreamBasic](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming - Stream/Ex01_StreamBasic.java) 참고
 
 <br>
 
