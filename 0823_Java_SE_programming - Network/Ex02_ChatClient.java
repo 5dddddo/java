@@ -55,7 +55,7 @@ public class Ex02_ChatClient extends Application {
 			try {
 				// 클라이언트는 버튼을 누르면 서버쪽에 Socket 접속을 시도
 				// Socket에 URL과 port 번호를 넘겨줘야 함
-				socket = new Socket("127.0.0.1", 5557);
+				socket = new Socket("127.0.0.1", 5556);
 
 				// Stream 생성
 				br = new BufferedReader(new InputStreamReader(socket.getInputStream()));
