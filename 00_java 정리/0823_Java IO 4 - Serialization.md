@@ -93,7 +93,7 @@ public class Ex04_Serialization {
 
   Serializable interface를 구현하자!
 
-  -  클래스의 필드가 모두 직렬화가 가능한 형태여야 하기 때문에
+  - 클래스의 필드가 모두 직렬화가 가능한 형태여야 하기 때문에
 
     직렬화가 안되는 형태의 type은 transient keyword를 이용해
 
@@ -122,7 +122,6 @@ class MyClass implements Serializable {
 		this.name = name;
 		this.kor = kor;
 	}
-
 }
 ```
 
