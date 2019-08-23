@@ -1,6 +1,6 @@
 # Java Thread 8 - Interrupt
 
-> 전체 소스코드 [Ex06_ThreadInterrupt](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming/Ex06_ThreadInterrupt.java) 참고
+> 전체 소스코드 [Ex06_ThreadInterrupt](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming - Thread/Ex06_ThreadInterrupt.java) 참고
 
 <br>
 

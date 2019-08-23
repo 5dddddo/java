@@ -1,6 +1,6 @@
 # Java Thread 10 -Thread Pool
 
-> 전체 소스코드 [Ex08_ThreadPoolBasic](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming/Ex08_ThreadPoolBasic.java) 참고
+> 전체 소스코드 [Ex08_ThreadPoolBasic](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming - Thread/Ex08_ThreadPoolBasic.java) 참고
 
 <br>
 

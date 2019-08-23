@@ -1,6 +1,6 @@
 # Java Thread 2 (08/21)
 
-> 전체 소스코드 [Ex00_ThreadBasic](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming/Ex00_ThreadBasic.java) 참고
+> 전체 소스코드 [Ex00_ThreadBasic](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming - Thread/Ex00_ThreadBasic.java) 참고
 
 ## JavaFX란?
 

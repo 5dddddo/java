@@ -1,6 +1,6 @@
 # Java Thread 4 (08/21)
 
-> 전체 소스코드 [Ex02_ThreadRace](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming/Ex02_ThreadRace.java) 참고
+> 전체 소스코드 [Ex02_ThreadRace](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming - Thread/Ex02_ThreadRace.java) 참고
 
 <br>
 

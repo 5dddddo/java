@@ -1,6 +1,6 @@
 # Stream : Reduction (08/21)
 
-> 전체 소스코드 [Ex03_StreamPipeline](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming/Ex03_StreamPipeline.java) 참고
+> 전체 소스코드 [Ex03_StreamPipeline](https://github.com/5dddddo/java/blob/master/0821_Java_SE_programming - Stream/Ex03_StreamPipeline.java) 참고
 
 <br>
 
