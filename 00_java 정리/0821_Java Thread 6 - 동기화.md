@@ -1,6 +1,6 @@
 # Java Thread 6 - 동기화
 
-> 전체 소스코드 [Ex04_ThreadSync](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming - Thread/Ex04_ThreadSync.java) 참고
+> 전체 소스코드 [Ex04_ThreadSync](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming%20-%20Thread/Ex04_ThreadSync.java) 참고
 
 <br>
 
