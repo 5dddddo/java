@@ -1,6 +1,6 @@
 # Java Thread 11 - Callable
 
-> 전체 소스코드 [Ex09_ThreadCallable](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming - Thread/Ex09_ThreadCallable.java) 참고
+> 전체 소스코드 [Ex09_ThreadCallable](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming%20-%20Thread/Ex09_ThreadCallable.java) 참고
 
 <br>
 
