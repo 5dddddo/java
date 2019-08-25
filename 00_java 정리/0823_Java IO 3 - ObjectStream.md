@@ -1,6 +1,6 @@
 # Java IO 3 - ObjectStream
 
-> 전체 소스코드 Ex03_ObjectStream 참고
+> 전체 소스코드 [Ex03_ObjectStream](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20IO/Ex03_ObjectStream.java) 참고
 
 <br>
 
