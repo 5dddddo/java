@@ -107,7 +107,7 @@ try {
 
 - Client
 
-> Ex01_DateClient 참고
+> 전체 소스코드 [Ex01_DateClient](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20Network/Ex01_DateClient.java) 참고
 
 <br>
 
