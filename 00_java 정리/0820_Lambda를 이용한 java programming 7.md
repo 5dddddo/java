@@ -1,6 +1,6 @@
 # Functional Interface : Operator
 
-> 전체 소스코드 [Ex07_LambdaUsingOperator](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming - Lambda/Ex07_LambdaUsingOperator.java) 참고
+> 전체 소스코드 [Ex07_LambdaUsingOperator](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming%20-%20Lambda/Ex07_LambdaUsingOperator.java) 참고
 
 <BR>
 
