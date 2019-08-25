@@ -1,6 +1,6 @@
 # Java Thread 7 - Notify/wait
 
-> 전체 소스코드 [Ex05_ThreadWaitNotify](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming - Thread/Ex05_ThreadWaitNotify.java) 참고
+> 전체 소스코드 [Ex05_ThreadWaitNotify](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming%20-%20Thread/Ex05_ThreadWaitNotify.java) 참고
 
 <br>
 
