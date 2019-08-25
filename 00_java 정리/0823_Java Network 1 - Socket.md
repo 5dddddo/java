@@ -62,7 +62,7 @@
 
 - Server
 
-> Ex01_DateServer 참고
+> 전체 소스코드 [Ex01_DateServer](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20Network/Ex01_DateServer.java) 참고
 
 <br>
 
