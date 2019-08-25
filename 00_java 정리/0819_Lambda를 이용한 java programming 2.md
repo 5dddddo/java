@@ -1,6 +1,6 @@
 # Lambda를 이용한 java programming 2 (08/19)
 
-> 전체 소스코드 [Ex02_LambdaExpression](https://github.com/5dddddo/java/blob/master/0819_Java_SE_programming/Ex02_LambdaExpression.java) 참고
+> 전체 소스코드 [Ex02_LambdaExpression](https://github.com/5dddddo/java/blob/master/0819_Java_SE_programming%20-%20Lambda/Ex02_LambdaExpression.java) 참고
 
 <br>
 
