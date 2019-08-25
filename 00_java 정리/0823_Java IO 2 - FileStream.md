@@ -1,6 +1,6 @@
 # Java IO 2 - FileStream
 
-> 전체 소스코드 Ex02_NotePad 참고
+> 전체 소스코드 [Ex02_NotePad](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20IO/Ex02_NotePad.java) 참고
 
 <br>
 
