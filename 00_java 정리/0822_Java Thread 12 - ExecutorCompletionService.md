@@ -2,7 +2,7 @@
 
 # Java Thread 12 - ExecutorCompletionService
 
-> 전체 소스코드 [Ex10_ThreadCompleteService](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming - Thread/Ex10_ThreadCompleteService.java) 참고
+> 전체 소스코드 [Ex10_ThreadCompleteService](https://github.com/5dddddo/java/blob/master/0822_Java_SE_programming%20-%20Thread/Ex10_ThreadCompleteService.java) 참고
 
 <br>
 
