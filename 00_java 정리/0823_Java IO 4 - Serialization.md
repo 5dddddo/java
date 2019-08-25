@@ -1,6 +1,6 @@
 # Java IO 4 - Serialization
 
-> 전체 소스코드 Ex04_Serialization 참고
+> 전체 소스코드 [Ex04_Serialization](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20IO/Ex04_Serialization.java) 참고
 
 <br>
 
