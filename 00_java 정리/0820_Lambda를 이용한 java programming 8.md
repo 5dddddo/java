@@ -1,6 +1,6 @@
 # Functional Interface : Predicate
 
-> 전체 소스코드 [Ex08_LambdaUsingPredicate](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming - Lambda/Ex08_LambdaUsingPredicate.java) 참고
+> 전체 소스코드 [Ex08_LambdaUsingPredicate](https://github.com/5dddddo/java/blob/master/0820_Java_SE_programming%20-%20Lambda/Ex08_LambdaUsingPredicate.java) 참고
 
 <br>
 
