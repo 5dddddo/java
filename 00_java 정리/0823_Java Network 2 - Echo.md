@@ -14,7 +14,7 @@
 
 ### Server
 
-> Ex02_Echoserver 참고
+> 전체 소스코드 [Ex02_Echoserver](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20Network/Ex02_Echoserver.java) 참고
 
 <br>
 
@@ -62,7 +62,7 @@ try {
 
 ### Client
 
-> Ex02_Echoclient 참고
+> 전체 소스코드 [Ex02_Echoclient](https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20Network/Ex02_Echoclient.java) 참고
 
 <br>
 
