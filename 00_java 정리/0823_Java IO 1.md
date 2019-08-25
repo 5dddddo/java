@@ -1,6 +1,6 @@
 # Java IO 1 - 표준 입력
 
-> 전체 소스코드 Ex01_KeyboardInput 참고
+> 전체 소스코드 Ex01_KeyboardInput(https://github.com/5dddddo/java/blob/master/0823_Java_SE_programming%20-%20IO/Ex01_KeyboardInput.java) 참고
 
 <br>
 
