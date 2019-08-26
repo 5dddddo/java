@@ -30,7 +30,7 @@
 
 ## Server
 
-> 전체 코드 Ex04_ChatServer 참고
+> 전체 코드 [Ex04_ChatServer](https://github.com/5dddddo/java/blob/master/0826_Java_SE_programming%20-%20Network/Ex04_ChatClient.java) 참고
 
 <br>
 
