@@ -133,4 +133,5 @@ public class Ex02_Echoclient extends Application {
 
   서버는 클라이언트가 종료되면 같이 종료되도록 수정
   
+  > [0826_Java Network 3 - Multi Thread.md](https://github.com/5dddddo/java/blob/master/00_java%20%EC%A0%95%EB%A6%AC/0826_Java%20Network%203%20-%20Multi%20Thread.md) 참고
   
