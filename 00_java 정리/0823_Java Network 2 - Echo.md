@@ -1,6 +1,6 @@
 # Java Network 2 - Echo
 
-![1566536878343](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1566536878343.png)
+![1566536878343](https://user-images.githubusercontent.com/50972986/63658385-1711ee00-c7e5-11e9-98b1-351eee07a654.png)
 
 <br>
 

@@ -81,7 +81,7 @@ public class Ex04_Serialization {
 
 - **문제** : 위의 코드를 실행하면 java.io.NotSerializableException 이 발생
 
-![1566526360956](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1566526360956.png)
+![1566526360956](https://user-images.githubusercontent.com/50972986/63658479-cf3f9680-c7e5-11e9-8a3b-bbdffb8514cc.png)
 
 <br>
 

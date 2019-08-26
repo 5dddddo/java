@@ -16,7 +16,7 @@
 
 - Socket 
 
-  ![1566541916657](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1566541916657.png)
+  ![1566541916657](https://user-images.githubusercontent.com/50972986/63658457-93a4cc80-c7e5-11e9-8599-ba4eddad2117.png)
 
   <br>
 
@@ -44,14 +44,16 @@
 
   <br>
 
-  ![1566536878343](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1566536878343.png)
+  ![1566536878343](https://user-images.githubusercontent.com/50972986/63658466-a7e8c980-c7e5-11e9-9deb-7533a2f0ea4a.png)
+
+  
 
   - Stream을 통해 데이터 주고받음
 
   - Server의 OutputStream은 Client의 InputStream과 연결
 
     Server의 InputStream은 Client의 OutputStream과 연결
-
+  
     
 
 <br>
@@ -137,4 +139,4 @@ socket.close();
 
 - 실행 결과
 
-![1566542976353](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1566542976353.png)
+![1566542976353](https://user-images.githubusercontent.com/50972986/63658470-b931d600-c7e5-11e9-9f9c-c7b34d33b071.png)
