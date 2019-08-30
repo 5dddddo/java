@@ -1,4 +1,4 @@
-# Java Network 4 - Chat Server
+# Java Network 4 - Chat program
 
 ### 전체 구조
 
