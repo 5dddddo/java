@@ -12,7 +12,7 @@
 
 ## Server
 
-> 전체 소스코드 Ex03_EchoServerMultiClient 참고
+> 전체 소스코드 [Ex03_EchoServerMultiClient](https://github.com/5dddddo/java/blob/master/0826_Java_SE_programming%20-%20Network/Ex03_EchoServerMultiClient.java) 참고
 
 <br>
 
@@ -151,7 +151,7 @@ executorService.execute(runnable);
 
 ## Client
 
-> 전체 코드 Ex03_EchoClientMultiClient 참고
+> 전체 코드 [Ex03_EchoClientMultiClient](https://github.com/5dddddo/java/blob/master/0826_Java_SE_programming%20-%20Network/Ex03_EchoClientMultiClient.java) 참고
 
 <br>
 
